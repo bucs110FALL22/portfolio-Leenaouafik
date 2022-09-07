@@ -4,9 +4,7 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 ## Course Materials
 
-[http://sm-web.cs.binghamton.edu/](http://sm-web.cs.binghamton.edu/)
-
-***OFF CAMPUS ONLY***: You must be connected to the BU VPN to access the course website [instructions]
+[https://cs110.samoore.page/](https://cs110.samoore.page/)
 
 ## Student Info - MUST BE COMPLETED
 
