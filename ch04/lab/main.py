@@ -40,5 +40,5 @@ y2= 457
 width= 520 
 distance_from_center = math.hypot(x1-x2, y1-y2)
 is_in_circle = distance_from_center <= width/2 
-for i in range(10):
 
+#for i in range(10):
